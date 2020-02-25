@@ -1,4 +1,6 @@
-# Project-1
+# Project-1 - Trivia Party
+
+Link: https://ngwijea.github.io/Project-1/
 
 Team:
 Emily Marinaro
